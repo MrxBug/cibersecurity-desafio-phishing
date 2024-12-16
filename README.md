@@ -18,5 +18,5 @@ Phishing para captura de senhas do Facebook
 -URL para clone: ``` http://www.facebook.com ```<br>
 
 ### Resultados
-![Alt text](./passwd1.png "senha capturada")
+![Alt text](./passwd1.jpg "senha capturada")
 
